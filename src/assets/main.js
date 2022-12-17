@@ -1,4 +1,4 @@
-const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCXtxgWwk55kVJo9lCCZRdmg&part=snippet%2Cid&order=date&maxResults=10'
+const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCHnyfMqiRRG1u-2MsSQLbXA&part=snippet%2Cid&order=date&maxResults=8'
 const content = null || document.getElementById("content")
 const options = {
     method: 'GET',
